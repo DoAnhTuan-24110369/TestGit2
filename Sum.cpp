@@ -2,6 +2,8 @@
 using namespace std;
 
 int main() {
+    cout << "Welcome to the Sum Calculator!" << endl;
+
     int a, b;
     cout << "Enter two numbers: ";
     cin >> a >> b;
